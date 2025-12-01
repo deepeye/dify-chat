@@ -54,10 +54,10 @@ export default function LoginPage() {
 							src={LogoIcon}
 							width={64}
 							height={64}
-							alt="Dify Chat Platform"
+							alt="Smartfox Chat Platform"
 						/>
 					</div>
-					<h1 className="text-2xl font-bold">Dify Chat Platform</h1>
+					<h1 className="text-2xl font-bold">Smartfox Chat Platform</h1>
 					<p className="mt-2">请登录您的账户</p>
 				</div>
 
