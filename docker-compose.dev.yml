@@ -34,6 +34,8 @@ services:
     restart: unless-stopped
     networks:
       - dify-chat-network
+    depends_on:
+      - db-mysql
 
   db-mysql:
     image: mysql:8.0
